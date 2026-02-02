@@ -1,4 +1,4 @@
-# Kummari<h1 align="center">Hi 👋, I'm Kummari Naga Lokesh</h1>
+# Kummari Naga Lokesh<h1 align="center">Hi 👋, I'm Kummari Naga Lokesh</h1>
 <h3 align="center">A passionate data science student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=24091a32a9-eng&label=Profile%20views&color=0e75b6&style=flat" alt="24091a32a9-eng" /> </p>
